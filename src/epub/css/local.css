@@ -41,3 +41,25 @@ figure img{
 	max-height: 100vh;
 	max-width: 100%;
 }
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+#chapter-3 > blockquote > p{
+	line-height: 1.5;
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-3 > blockquote > p::first-line{
+	font-size: 1.25em;
+}
+
+#chapter-8 > blockquote > p{
+	line-height: 1.25;
+	text-align: center;
+	text-indent: 0;
+}
