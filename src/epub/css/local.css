@@ -45,21 +45,18 @@ figure img{
 header{
 	font-variant: small-caps;
 	margin: 1em;
+}
+
+#chapter-3 > blockquote:last-of-type p{
+	font-variant: small-caps;
 	text-align: center;
 }
 
-#chapter-3 > blockquote:last-of-type > p{
-	line-height: 1.5;
-	text-align: center;
-	text-indent: 0;
+#chapter-3 > blockquote:last-of-type b{
+	font-size: larger;
 }
 
-#chapter-3 > blockquote:last-of-type > p::first-line{
-	font-size: 1.25em;
-}
-
-#chapter-8 > blockquote > p{
-	line-height: 1.25;
+#chapter-8 > blockquote p{
 	text-align: center;
 	text-indent: 0;
 }
