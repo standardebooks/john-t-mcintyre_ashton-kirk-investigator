@@ -48,13 +48,13 @@ header{
 	text-align: center;
 }
 
-#chapter-3 > blockquote > p{
+#chapter-3 > blockquote:last-of-type > p{
 	line-height: 1.5;
 	text-align: center;
 	text-indent: 0;
 }
 
-#chapter-3 > blockquote > p::first-line{
+#chapter-3 > blockquote:last-of-type > p::first-line{
 	font-size: 1.25em;
 }
 
