@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-12-13T17:54:13Z</dc:date>
+		<meta property="dcterms:modified">2025-12-13T17:54:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,14 +43,14 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A young investigator becomes intrigued by the murder of a dislikeable numismatist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Miss Edyth Vale, heiress to a steel fortune, has paid the youthful investigator Ashton-Kirk a visit. Her fiancé has become entangled in a secret and intensely stressful business matter, which is casting a shadow over their nascent relationship. Using her resources, she’s discovered that the cause of the problem is a numismatist called Hume, and Ashton-Kirk agrees to check up on him. Yet before he can even pay a visit, Hume is discovered in his office with a bayonet in his chest. With a wide cast of suspects, Ashton-Kirk has his work cut out to discover the real murderer.&lt;/p&gt;
-			&lt;p&gt;Although the character of Ashton-Kirk had appeared in earlier serials, &lt;i&gt;Ashton-Kirk, Investigator&lt;/i&gt; is the first in a series of novels by &lt;a href="https://standardebooks.org/ebooks/john-t-mcintyre"&gt;John &lt;abbr&gt;T.&lt;/abbr&gt; McIntyre&lt;/a&gt; focusing on the youthful private investigator. Following in &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes’&lt;/a&gt; footsteps as a scientific investigator-for-hire, Ashton-Kirk carefully considers all possible events, often operating several steps ahead of his colleagues and the reader.&lt;/p&gt;
+			&lt;p&gt;Miss Edyth Vale, heiress to a steel fortune, has paid the youthful investigator &lt;a href="https://standardebooks.org/collections/ashton-kirk"&gt;Ashton-Kirk&lt;/a&gt; a visit. Her fiancé has become entangled in a secret and intensely stressful business matter, which is casting a shadow over their nascent relationship. Using her resources, she’s discovered that the cause of the problem is a numismatist called Hume, and Ashton-Kirk agrees to check up on him. Yet before he can even pay a visit, Hume is discovered in his office with a bayonet in his chest. Ashton-Kirk must uncover the real murderer, but with such a wide cast of suspects, he has his work cut out for him.&lt;/p&gt;
+			&lt;p&gt;Although the character of Ashton-Kirk had appeared in earlier serials, &lt;i&gt;Ashton-Kirk, Investigator&lt;/i&gt; is the first in a series of novels by &lt;a href="https://standardebooks.org/ebooks/john-t-mcintyre"&gt;John T. McIntyre&lt;/a&gt; focusing on the youthful private investigator. Following in &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes’&lt;/a&gt; footsteps as a scientific investigator-for-hire, Ashton-Kirk carefully considers all possible events, often operating several steps ahead of his colleagues—and the reader.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12314</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100514258</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">68761</meta>
+		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-t-mcintyre_ashton-kirk-investigator</meta>
 		<dc:creator id="author">John T. McIntyre</dc:creator>
 		<meta property="file-as" refines="#author">McIntyre, John T.</meta>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
