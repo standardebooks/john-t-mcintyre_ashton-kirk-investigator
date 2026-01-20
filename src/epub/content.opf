@@ -49,7 +49,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12314</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100514258</dc:source>
-		<meta property="se:word-count">68761</meta>
+		<meta property="se:word-count">67828</meta>
 		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-t-mcintyre_ashton-kirk-investigator</meta>
 		<dc:creator id="author">John T. McIntyre</dc:creator>
