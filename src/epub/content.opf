@@ -42,7 +42,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Ashton-Kirk</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A young investigator becomes intrigued by the murder of a dislikeable numismatist.</dc:abstract>
+		<meta property="schema:abstract">A young investigator becomes intrigued by the murder of a dislikeable numismatist.</meta>
 		<dc:description>
 			&lt;p&gt;Miss Edyth Vale, heiress to a steel fortune, has paid the youthful investigator &lt;a href="https://standardebooks.org/collections/ashton-kirk"&gt;Ashton-Kirk&lt;/a&gt; a visit. Her fiancé has become entangled in a secret and intensely stressful business matter, which is casting a shadow over their nascent relationship. Using her resources, she’s discovered that the cause of the problem is a numismatist called Hume, and Ashton-Kirk agrees to check up on him. Yet before he can even pay a visit, Hume is discovered in his office with a bayonet in his chest. Ashton-Kirk must uncover the real murderer, but with such a wide cast of suspects, he has his work cut out for him.&lt;/p&gt;
 			&lt;p&gt;Although the character of Ashton-Kirk had appeared in earlier serials, &lt;i&gt;Ashton-Kirk, Investigator&lt;/i&gt; is the first in a series of novels by &lt;a href="https://standardebooks.org/ebooks/john-t-mcintyre"&gt;John T. McIntyre&lt;/a&gt; focusing on the youthful private investigator. Following in &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes’&lt;/a&gt; footsteps as a scientific investigator-for-hire, Ashton-Kirk carefully considers all possible events, often operating several steps ahead of his colleagues—and the reader.&lt;/p&gt;
